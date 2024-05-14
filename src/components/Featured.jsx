@@ -23,7 +23,8 @@ function Featured() {
                     {"vise".split("").map((item, index) => (
                         <span>{item}</span>
                     ))}
-                </h1>                <div className='card w-full h-full rounded-xl overflow-hidden'>
+                </h1>
+                <div className='card w-full h-full rounded-xl overflow-hidden'>
                     <img className='w-full h-full bg-cover object-cover' src="https://ochi.design/wp-content/uploads/2022/09/Vise_front2-1326x1101.jpg" alt="" />
                 </div>
             </div>
